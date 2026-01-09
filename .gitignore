@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+
+# Data & models (optional: small processed CSV can be included)
+data/raw/
+models/checkpoint-*  # keep only final exported model folder
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
