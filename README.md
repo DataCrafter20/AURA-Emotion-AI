@@ -220,7 +220,8 @@ streamlit run app.py
 ## 👤 Author
 
 **Ndivhuwo Munyai**
-BSc Computer Science, Information Systems & Applied Mathematics
+BSc Computer Science, Information Systems & Applied Mathematics Student
+
 AI Data Annotator | BSc Computer Science, Information Systems & Applied Mathematics Student | Python, SQL | Aspiring Data, AI & ML Professional
 
 GitHub: [https://github.com/DataCrafter20](https://github.com/DataCrafter20)
